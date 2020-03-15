@@ -8,6 +8,7 @@ npm-debug.log
 yarn-error.log
 
 # other
+.env
 .nuxt
 dist
 .vscode
